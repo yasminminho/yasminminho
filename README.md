@@ -7,7 +7,6 @@ Amo desenvolver sites, design, criatividade e tecnologia! Estou realizando bacha
  <div align="center">
   <a href="https://github.com/yasminminho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yasminminho&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminminho&layout=compact&langs_count=7&theme=aura"/>
 </div>
  
 
