@@ -1,6 +1,6 @@
 ## Oiie! Eu sou a 🌈 Yasmin Minho ✨
 
-Amo desenvolver sites, design, criatividade e tecnologia!. Estou realizando bacharelado em Sistemas de Informação e pretendo seguir a minha carreira como desenvolvedora front-end. Estudando atualmente HTML, CSS com ênfase em JavaScript.
+Amo desenvolver sites, design, criatividade e tecnologia! Estou realizando bacharelado em Sistemas de Informação e pretendo seguir a minha carreira como desenvolvedora front-end. Estudando atualmente HTML, CSS com ênfase em JavaScript.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
