@@ -3,6 +3,7 @@
 Amo desenvolver sites, design, criatividade e tecnologia! Estou realizando bacharelado em Sistemas de Informação e pretendo seguir a minha carreira como desenvolvedora front-end. Estudando atualmente HTML, CSS com ênfase em JavaScript.
 
 - 💌 Entre em contato comigo **yasminminhomk@gmail.com**
+<img href="https://i.pinimg.com/564x/65/bb/94/65bb94f74400e991afbceade4388a016.jpg" </img>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
