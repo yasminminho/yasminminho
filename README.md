@@ -4,7 +4,7 @@ Amo desenvolver sites, design, criatividade e tecnologia! Estou realizando bacha
 
 - 💌 Entre em contato comigo **yasminminhomk@gmail.com**
 
-<img align="right" width="150" src="https://i.picasion.com/pic92/dc5c5106475d9e2855d26de9d40a029e.gif"/> 
+<img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/> 
 
 
 
