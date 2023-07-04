@@ -1,6 +1,5 @@
-## oii! eu sou a Yasmin 🔮
+## oii! 🔮
 
-Amo desenvolver sites, design, criatividade e tecnologia! Estou realizando bacharelado em Sistemas de Informação e pretendo seguir a minha carreira como desenvolvedora front-end. Estudando atualmente HTML, CSS com ênfase em JavaScript.
 
 - 💌 Entre em contato comigo **yasminminhomk@gmail.com**
 
