@@ -1,7 +1,7 @@
 ## oii! 🔮
 
 
-- 💌 Entre em contato comigo **yasminminhomk@gmail.com**
+- 💌 **yasminminhomk@gmail.com**
 
 <img align="right" width="150" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif"/> 
 
