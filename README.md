@@ -1,8 +1,4 @@
 
-<p align="left"> 
-  Meu nome é Yasmin Minho, faço o curso de Sistemas de Informações e pretendo me tornar uma Desenvolvedora Front-End! ✨
-</p>
-
 ## 
 
 <p align="left">
